@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ben, Soner Akça.
 
-<!--
-**ultrasoner55/ultrasoner55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grafik & Web tasarım ve Bilgisayar programcısı. Tam anlamıyla #Atatürk ve #Galatasaray aşığı.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soner Akça
+
+Soner Akça, 1992’de Samsun Bafra’da doğmuş; yazılım, web ve grafik tasarım alanlarında çalışan bir geliştiricidir. Modern web teknolojileri, kullanıcı deneyimi ve görsel tasarıma odaklanarak estetik ve performansı bir araya getiren projeler üretir.
+
+Tecrübelerim
+
+・Yazılım
+
+・Web Tasarım
+
+・Grafik Tasarım
+
+
+## Bana Ulaşın
+
+⚲ Samsun, TR
+
+🕻 +905416417157
+
+✉︎ ultrasoner55@hotmail.com
