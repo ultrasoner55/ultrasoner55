@@ -41,7 +41,7 @@ Soner Akça was born on April 28, 1992, in Bafra, Samsun. Working in the fields 
 
 <p align="left">
   <a href="mailto:eposta@adresiniz.com">
-    <img src="https://img.shields.io/badge/Email%20%20%20%20%20%20%20-Send%20an%20email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email%20%20%20%20%20%20%20&nbsp;&nbsp;&nbsp;-Send%20an%20email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" />
   </a>
   <br>
   <a href="https://wa.me/905XXXXXXXXX">
