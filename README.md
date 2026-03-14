@@ -20,12 +20,8 @@ My Experiences
 
 ## Contact Me
 
-✉︎ Send an email for your questions
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ultrasoner55@hotmail.com) Send an email for your questions
 
-🕻 WhatsApp for quick reply
+[![Telefon](https://img.shields.io/badge/Telefon-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ultrasoner55.short.gy/whatsapp) WhatsApp for quick reply
 
-⚲ Samsun, Turkey
-
-[![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ultrasoner55@hotmail.com)
-[![Telefon](https://img.shields.io/badge/Telefon?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ultrasoner55.short.gy/whatsapp)
-[![Konum](https://img.shields.io/badge/Konum?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/Samsun)
+[![Konum](https://img.shields.io/badge/Konum-Samsun%20/%20Bafra-34A853?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/Samsun) Samsun, Turkey
