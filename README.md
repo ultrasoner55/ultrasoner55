@@ -24,3 +24,17 @@ Soner Akça was born on April 28, 1992, in Bafra, Samsun. Working in the fields 
 <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/WhatsApp.png" width="20" height="20" /> [WhatsApp for quick reply](https://ultrasoner55.short.gy/whatsapp)
 
 <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/Konum.png" width="20" height="20" /> [Samsun, Turkey](https://www.google.com/maps/search/Samsun)
+
+<p align="left">
+  <a href="mailto:eposta@adresiniz.com">
+    <img src="https://img.shields.io/badge/Email-Send%20an%20email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://wa.me/905XXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-Quick%20Reply-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://www.google.com/maps/place/Samsun">
+    <img src="https://img.shields.io/badge/Location-Samsun,%20Turkey-EA4335?style=flat&logo=googlemaps&logoColor=white" />
+  </a>
+</p>
