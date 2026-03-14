@@ -10,16 +10,16 @@ Soner Akça was born on April 28, 1992, in Bafra, Samsun. Working in the fields 
 
 My Experiences
 
-・Software ![Progress Bar](https://geps.dev/progress/55?dangerColor=ff0000&warningColor=ffc107&successColor=28a745)
+・Software ![Progress Bar](https://geps.dev/progress/55?dangerColor=808080&warningColor=808080&successColor=808080)
 
-・Web Design ![Progress Bar](https://geps.dev/progress/60?dangerColor=ff0000&warningColor=ffc107&successColor=28a745)
+・Web Design ![Progress Bar](https://geps.dev/progress/60?dangerColor=808080&warningColor=808080&successColor=808080)
 
-・Graphic Design ![Progress Bar](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ffc107&successColor=28a745)
+・Graphic Design ![Progress Bar](https://geps.dev/progress/85?dangerColor=808080&warningColor=808080&successColor=808080)
 
 
 
 ## Contact Me
-![Progress Bar](https://geps.dev/progress/85?dangerColor=808080&warningColor=808080&successColor=808080)
+
 ✉︎ [Send an email for your questions](mailto:ultrasoner55@hotmail.com)
 
 🕻 [WhatsApp for quick reply](https://ultrasoner55.short.gy/whatsapp)
