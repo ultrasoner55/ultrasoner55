@@ -10,11 +10,11 @@ Soner Akça was born on April 28, 1992, in Bafra, Samsun. Working in the fields 
 
 **My Experiences**
 
-・Software &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/55.png" width="400" height="20" />
+・Software &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/55.png" width="400" height="20" />
 
-・Web Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/60.png" width="400" height="20" />
+・Web Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/60.png" width="400" height="20" />
 
-・Graphic Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/85.png" width="400" height="20" />
+・Graphic Design &nbsp;&nbsp;&nbsp; <img src="https://github.com/ultrasoner55/ultrasoner55/blob/main/logolar/85.png" width="400" height="20" />
 
 
 
