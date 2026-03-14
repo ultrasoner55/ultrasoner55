@@ -14,7 +14,7 @@ My Experiences
 **Proje Gelişim Oranı**
 ![Progress Bar](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ffc107&successColor=28a745)
 ・Web Design
-![Soner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultrasoner55&show_icons=true&theme=radical)
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&section=footer&height=12&text=" width="100%"/>
 ・Graphic Design
 
 
