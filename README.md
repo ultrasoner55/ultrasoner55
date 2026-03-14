@@ -19,8 +19,9 @@ My Experiences
 
 
 ## Contact Me
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ultrasoner55@hotmail.com) Send an email for your questions
 
-[![Telefon](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ultrasoner55.short.gy/whatsapp) WhatsApp for quick reply
+✉︎ Send an email for your questions
 
-[![Konum](https://img.shields.io/badge/Konum-34A853?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/Samsun) Samsun, Turkey
+🕻 WhatsApp for quick reply
+
+⚲ Samsun, Turkey
