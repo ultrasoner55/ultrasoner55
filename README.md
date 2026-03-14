@@ -20,8 +20,8 @@ My Experiences
 
 ## Contact Me
 
-✉︎ Send an email for your questions
+[✉︎ Send an email for your questions](mailto:ultrasoner55@hotmail.com)
 
-🕻 WhatsApp for quick reply
+[🕻 WhatsApp for quick reply](https://ultrasoner55.short.gy/whatsapp)
 
-⚲ Samsun, Turkey
+[⚲ Samsun, Turkey](https://www.google.com/maps/search/Samsun)
