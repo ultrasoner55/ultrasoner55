@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="128pt" height="128pt">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="e" x1=".72887" x2=".35915" y1="-.060345" y2=".27586"/>
+    <linearGradient xlink:href="#a" id="d" x1="1.6463" x2=".4898" y1="1.6641" y2=".54688"/>
+    <linearGradient xlink:href="#a" id="f" x1=".42241" x2=".37791" y1="-.3512" y2=".58955"/>
+    <linearGradient xlink:href="#a" id="g" x1=".76364" x2=".52121" y1="2.0078" y2=".42969"/>
+    <radialGradient id="c" cx=".50704" cy=".57042" r=".581" fx=".54577" fy=".13028">
+      <stop offset="0" stop-color="#e3f9ff"/>
+      <stop offset=".36195" stop-color="#73bee7"/>
+      <stop offset=".62535" stop-color="#438ec5"/>
+      <stop offset=".72607" stop-color="#477daf"/>
+      <stop offset="1" stop-color="#020407"/>
+    </radialGradient>
+    <radialGradient id="b">
+      <stop offset="0" stop-opacity=".67843"/>
+      <stop offset=".57" stop-opacity=".32941"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <text xml:space="preserve" x="2.4142277" y="-22.502528" font-family="helvetica" font-size="12"><tspan>Globe</tspan></text>
+  <text xml:space="preserve" x="69.435212" y="-66.733749" font-family="helvetica" font-size="12" transform="scale(.24673)"><tspan>Created by Andrew Fitzsimon</tspan></text>
+  <path fill="url(#b)" fill-rule="evenodd" d="M148.28 77.945a68.379 68.379 0 1 0-136.76 0 68.379 68.379 0 1 0 136.76 0z" transform="matrix(-1 0 0 .3579 161.11 96.536)"/>
+  <path fill="url(#c)" fill-rule="evenodd" d="M397.32 453.5a172.75 172.75 0 1 0-345.5 0 172.75 172.75 0 1 0 345.5 0z" transform="matrix(-.33637 0 0 .33637 157.23 -71.671)"/>
+  <path fill="#0e7a0c" fill-opacity=".59375" fill-rule="evenodd" d="M91.944 117.04c-7.659-.89-7.735-13.86-.126-14.91 4.781 2.69 9.222-8.658 11.662-4.129-2.02 8.579 8.93 6.639 11.02.047 3.11-5.319 1.55 4.592 2.75 6.702 2.78 6.83-5.83 16.38-12.18 10.6-4.55-4.03-8.712.26-13.126 1.69zm16.026 4.71c.76 2.97 2.33 3.24 3.34.11 1.02-2.96-2.81-2.41-3.34-.11zM49.983 49.898c-6.327 6.269-8.198 15.319-10.302 23.635 1.563 5.868 6.278 11.846.848 17.207-3.472 7.544-14.647 2.797-11.862-4.876-.141-9.089-1.254-18.716 3.114-27.084 2.392-5.321 6.921-11.725 13.46-11.116 1.726.383 3.258 1.314 4.742 2.234zM63.97 70.879c-.449-7.293 7.516-6.669 5.72-15.381-.306-7.393-15.733-3.71-11.214-12.528 4.206-6.591 3.704-9.974 14.232-11.675 10.529-2.167 21.793-4.701 39.502 8.361 17.24 13.061-14.341 2.703-18.128 7.496-6.082 5.123-3.34 16.336-10.434 18.689-6.131 3.93-5.643 12.055-6.666 18.423 1.219 5.219 17.368 1.513 9.817 8.673-7.678 1.948-12.825-5.782-18.164-9.86-2.704-2.557-4.216-5.372-4.665-12.198zm53.15-10.724c6.52-.418 9.2 7.064 8.62 12.493-3.55 5.924 4.27 11.441 8.13 5.354 4.17-7.36-2.63-16.57-8.99-20.468-2.81-2.493-8.36-2.153-7.76 2.621zM52.78 122.63c8.191-.12 16.459-1.98 24.599-.27 3.176 4.27 12.131 7.25 12.251 11.71-6.323 4.42-14.533.27-21.135-1.44-5.243-1.59-12.692-.49-15.401-6.38-.382-1.16-.58-2.41-.314-3.62z"/>
+  <path fill="url(#d)" fill-rule="evenodd" d="M53.698 127.56c22.689 27.24 98.162-.35 80.672-54.337-14.8-18.791-45.915-5.1-80.672 54.337z"/>
+  <path fill="url(#e)" fill-rule="evenodd" d="M66.013 31.409c25.435-15.501 77.177 7.43 69.597 50.62-10.28 13.696-28.88-56.333-69.597-50.62z" transform="matrix(-1 0 0 1 162.42 0)"/>
+  <path fill="url(#f)" fill-rule="evenodd" d="M100.77 31.159a49.665 49.665 0 1 0-99.33 0 49.665 49.665 0 1 0 99.33 0z" transform="matrix(-.84058 0 0 .56522 123.69 34.596)"/>
+  <path fill="url(#g)" fill-rule="evenodd" d="M100.77 31.159a49.665 49.665 0 1 0-99.33 0 49.665 49.665 0 1 0 99.33 0z" transform="matrix(-.87681 0 0 .68841 127.34 81.862)"/>
+</svg>
