@@ -19,7 +19,7 @@ Soner Akça was born on April 28, 1992, in Bafra, Samsun. Working in the fields 
 
 
 ## Contact Me
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" width="20" height="20" /> [Bana WhatsApp'tan Yaz](https://wa.me/905XXXXXXXXX)
+<img src="https://commons.wikimedia.org/wiki/File:WhatsApp.svg" width="20" height="20" /> [Bana WhatsApp'tan Yaz](https://wa.me/905XXXXXXXXX)
 ✉︎ [Send an email for your questions](mailto:ultrasoner55@hotmail.com)
 
 🕻 [WhatsApp for quick reply](https://ultrasoner55.short.gy/whatsapp)
