@@ -26,6 +26,6 @@ My Experiences
 
 ⚲ Samsun, Turkey
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ultrasoner55@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ultrasoner55@hotmail.com)
 [![Telefon](https://img.shields.io/badge/Telefon?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ultrasoner55.short.gy/whatsapp)
 [![Konum](https://img.shields.io/badge/Konum?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/Samsun)
